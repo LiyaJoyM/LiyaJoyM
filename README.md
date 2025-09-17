@@ -39,9 +39,13 @@ To gain practical experience through internships, build strong foundational skil
 </div>
 
 ## Certifications  
+## Certifications
 <div>
-<img src="https://img.shields.io/badge/-PG%20Cyber%20Security%20(Great%20Learning)-006400?&style=for-the-badge&logoColor=white" />
+  <a href="https://www.dropbox.com/scl/fi/caszch4026hwd6p1jbgij/LIYA-JOY-Great-Learning-Certificate.pdf?rlkey=82050iuucurwpnaz5751n4xei&e=1&st=6nk8q0ru&dl=1" target="_blank">
+    <img src="https://img.shields.io/badge/-PG%20Cyber%20Security%20(Great%20Learning)-006400?&style=for-the-badge&logoColor=white" />
+  </a>
 </div>
+
 
 ## Projects (Coming Soon)  
 - Detection Lab  
